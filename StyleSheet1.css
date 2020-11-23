@@ -9,7 +9,7 @@ header {
     
     align-content:center;
 }
-header a
+header a, 
 {
     font-family:Arial;
     text-decoration:none;
